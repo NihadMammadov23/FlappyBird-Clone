@@ -8,7 +8,7 @@ This is a simple clone of the popular Flappy Bird game, created using HTML, CSS,
     ✅ Collision Detection: Realistic collision mechanics to provide an authentic Flappy Bird experience.<br /><br />
 
 🌐 How to Play :<br />
-    ✅ Clone the repository: git clone https://github.com/yourusername/flappy-bird-clone.git<br />
+    ✅ Clone the repository: git clone [https://github.com/yourusername/flappy-bird-clone.git](https://github.com/NihadMammadov23/FlappyBird)<br />
     ✅ Open index.html in your favorite browser.<br />
     ✅ Press the spacebar or tap the screen to make the bird fly.<br />
     ✅ Navigate through the pipes without hitting them to score points.<br />
